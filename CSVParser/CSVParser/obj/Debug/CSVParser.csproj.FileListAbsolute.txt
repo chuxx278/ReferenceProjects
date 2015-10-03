@@ -1,0 +1,9 @@
+c:\users\ychub\documents\visual studio 2013\Projects\CSVParser\CSVParser\bin\Debug\CSVParser.exe.config
+c:\users\ychub\documents\visual studio 2013\Projects\CSVParser\CSVParser\bin\Debug\CSVParser.exe
+c:\users\ychub\documents\visual studio 2013\Projects\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+c:\users\ychub\documents\visual studio 2013\Projects\CSVParser\CSVParser\obj\Debug\CSVParser.csprojResolveAssemblyReference.cache
+c:\users\ychub\documents\visual studio 2013\Projects\CSVParser\CSVParser\obj\Debug\CSVParser.Form1.resources
+c:\users\ychub\documents\visual studio 2013\Projects\CSVParser\CSVParser\obj\Debug\CSVParser.Properties.Resources.resources
+c:\users\ychub\documents\visual studio 2013\Projects\CSVParser\CSVParser\obj\Debug\CSVParser.csproj.GenerateResource.Cache
+c:\users\ychub\documents\visual studio 2013\Projects\CSVParser\CSVParser\obj\Debug\CSVParser.exe
+c:\users\ychub\documents\visual studio 2013\Projects\CSVParser\CSVParser\obj\Debug\CSVParser.pdb

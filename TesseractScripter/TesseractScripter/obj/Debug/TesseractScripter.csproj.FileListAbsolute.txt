@@ -1,0 +1,9 @@
+c:\users\ychub\documents\visual studio 2013\Projects\TesseractScripter\TesseractScripter\bin\Debug\TesseractScripter.exe.config
+C:\Users\ychub\documents\visual studio 2013\Projects\TesseractScripter\TesseractScripter\bin\Debug\TesseractScripter.exe
+C:\Users\ychub\documents\visual studio 2013\Projects\TesseractScripter\TesseractScripter\bin\Debug\TesseractScripter.pdb
+C:\Users\ychub\documents\visual studio 2013\Projects\TesseractScripter\TesseractScripter\obj\Debug\TesseractScripter.csprojResolveAssemblyReference.cache
+C:\Users\ychub\documents\visual studio 2013\Projects\TesseractScripter\TesseractScripter\obj\Debug\TesseractScripter.Form1.resources
+C:\Users\ychub\documents\visual studio 2013\Projects\TesseractScripter\TesseractScripter\obj\Debug\TesseractScripter.Properties.Resources.resources
+C:\Users\ychub\documents\visual studio 2013\Projects\TesseractScripter\TesseractScripter\obj\Debug\TesseractScripter.csproj.GenerateResource.Cache
+C:\Users\ychub\documents\visual studio 2013\Projects\TesseractScripter\TesseractScripter\obj\Debug\TesseractScripter.exe
+C:\Users\ychub\documents\visual studio 2013\Projects\TesseractScripter\TesseractScripter\obj\Debug\TesseractScripter.pdb
